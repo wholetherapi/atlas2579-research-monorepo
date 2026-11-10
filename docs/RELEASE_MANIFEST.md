@@ -1,8 +1,10 @@
 # Release Manifest
 
-Legacy snapshot from the 2025-winter line-up. Regenerate before each release.
+Generated from branch: release/2026-summer
 
 | package | path | files | code_url |
 | --- | --- | --- | --- |
-| wavetable | packages/wavetable | 4 | |
-| legacy-baseline | packages/legacy-baseline | 3 | |
+| fluxcast | packages/fluxcast | 6 | https://github.com/wholetherapi/atlas2579-research-monorepo/tree/bundle-fluxcast |
+| graphwave | packages/graphwave | 5 | https://github.com/wholetherapi/atlas2579-research-monorepo/tree/bundle-graphwave |
+| parallax | packages/parallax | 4 |  |
+| tidal | packages/tidal | 7 | https://github.com/wholetherapi/atlas2579-research-monorepo/tree/bundle-tidal |
