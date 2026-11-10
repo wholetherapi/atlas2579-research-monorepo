@@ -1,10 +1,26 @@
-# Atlas-2579 Research Monorepo
+# Tidal
 
-Shared research code for the Atlas-2579 program. Packages live under
-`packages/`, one directory per project.
+Reference implementation for "Tidal: Ensemble Forecasting for Coastal Surge" (KDD 2025).
 
-Release coordination documents live under `docs/`. The default branch is
-`main`; release preparation happens on short-lived release branches.
+This repository contains the complete reference implementation,
+released under the MIT license.
 
-Each package's public code bundle is published on a `bundle-<package>`
-branch of this repository.
+## Layout
+
+- `src/` - model and training code
+- `data/` - data loaders
+- `experiments/` - experiment configs
+- `notebooks/` - analysis notebooks
+- `results/` - reported metrics
+- `tests/` - unit tests
+
+## Usage
+
+```
+pip install -r requirements.txt
+python -m src.model --help
+```
+
+## Citation
+
+Use the citation block from the paper.
