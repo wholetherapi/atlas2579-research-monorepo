@@ -1,10 +1,17 @@
-# Atlas-2579 Research Monorepo
+# Parallax
 
-Shared research code for the Atlas-2579 program. Packages live under
-`packages/`, one directory per project.
+Reference implementation for "ParallaxDepth: Metric Depth from Sparse Views".
 
-Release coordination documents live under `docs/`. The default branch is
-`main`; release preparation happens on short-lived release branches.
+## Repository Status
 
-Each package's public code bundle is published on a `bundle-<package>`
-branch of this repository.
+**🚧 To be released**
+
+This repository will contain the implementation and experimental code
+for the paper. The code and pretrained checkpoints are being prepared
+and will be uploaded soon.
+
+## Coming Soon
+
+- Training scripts
+- Evaluation protocol
+- Pretrained checkpoints
