@@ -5,3 +5,6 @@ Shared research code for the Atlas-2579 program. Packages live under
 
 Release coordination documents live under `docs/`. The default branch is
 `main`; release preparation happens on short-lived release branches.
+
+Each package's public code bundle is published on a `bundle-<package>`
+branch of this repository.
