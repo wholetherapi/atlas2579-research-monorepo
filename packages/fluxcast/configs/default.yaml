@@ -1,0 +1,5 @@
+seed: 13
+epochs: 40
+batch_size: 64
+hidden: 64
+lr: 0.001

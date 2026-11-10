@@ -1,0 +1,4 @@
+seed: 21
+members: 8
+epochs: 30
+lr: 0.0015

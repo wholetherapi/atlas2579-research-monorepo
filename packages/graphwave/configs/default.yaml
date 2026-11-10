@@ -1,0 +1,4 @@
+seed: 7
+layers: 3
+hidden: 32
+lr: 0.002
